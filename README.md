@@ -1,4 +1,4 @@
-# Open All Images
+# macOS Open All Images
 
 This basic shell script opens all `.jpg`, `.jpeg` and `.png` files,
 in a given directory and all sub-directories (recursive).
