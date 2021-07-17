@@ -12,9 +12,3 @@ Run the following command in the project root directory:
 ```shell
 $ ./main.sh <target_dir> 2> /dev/null
 ```
-
-### (Linux)
-
-1) Unless you have a means of running AppleScripts in Linux, comment out line 24 in `main.sh` (place a `#` at the beginning of the line).
-
-2) Use the same command as above for Mac OS.
